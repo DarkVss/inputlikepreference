@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Custom input like Preference</string>
+    <string name="default_button">Accept</string>
+    <string name="default_dialog_hint">"Input something . . . "</string>
+    <string name="default_hint">Not set</string>
+</resources>

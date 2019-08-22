@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<declare-styleable name="EditTextLikePreference">
+        <attr name="buttonText" format="string"/>
+        <attr name="labelText" format="string"/>
+        <attr name="hintText" format="string"/>
+    </declare-styleable>-->
+    <declare-styleable name="InputLikePreference">
+        <attr name="buttonText" format="string" />
+        <attr name="labelText" format="string" />
+        <attr name="hintText" format="string" />
+        <attr name="iconLeft" format="reference" />
+        <attr name="iconRight" format="reference" />
+    </declare-styleable>
+</resources>

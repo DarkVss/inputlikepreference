@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <declare-styleable name="InputLikePreference">
+        <attr format="string" name="buttonText"/>
+        <attr format="string" name="labelText"/>
+        <attr format="string" name="hintText"/>
+        <attr format="reference" name="iconLeft"/>
+        <attr format="reference" name="iconRight"/>
+    </declare-styleable>
+    <string name="app_name">Custom input like Preference</string>
+    <string name="default_button">Accept</string>
+    <string name="default_dialog_hint">Input something . . .</string>
+    <string name="default_hint">Not set</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@null</item>
+    </style>
+</resources>

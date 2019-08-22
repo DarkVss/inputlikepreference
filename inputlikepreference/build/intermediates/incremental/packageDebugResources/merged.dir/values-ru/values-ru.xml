@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Кастомное поле ввода как Preference</string>
+    <string name="default_button">Подтвердить</string>
+    <string name="default_dialog_hint">Введите что-нибудь . . .</string>
+    <string name="default_hint">Не задано</string>
+</resources>
